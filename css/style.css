@@ -175,7 +175,7 @@ img {
 }
 
 .header .nav a:hover {
-  color: var(--palet-2);
+  color: var(--palet-1);
 }
 
 .header #menu-btn {
@@ -396,7 +396,7 @@ img {
 }
 
 .menu__detail {
-  font-size: 2rem !important;
+  font-size: 1.5rem !important;
   color: var(--white) !important;
   margin: 1rem !important;
 }
@@ -876,6 +876,14 @@ img {
   margin-top: 3rem;
   padding-top: 3rem;
   border-top: 0.1rem solid rgba(255, 255, 255, 0.2);
+}
+
+.footer .credit a {
+  color: var(--palet-2);
+}
+
+.footer .credit a:hover {
+  color: var(--palet-1);
 }
 
 .footer .credit span {
@@ -1405,7 +1413,8 @@ input.whats-input[type=text]:focus {
   }
 
   .heading .sub-menu {
-    margin-top: -4rem;
+    margin-top: -3rem;
+    font-size: 5rem;
   }
 }
 
@@ -1446,11 +1455,11 @@ input.whats-input[type=text]:focus {
   }
 
   .heading .title-menu {
-    font-size: 9rem;
+    font-size: 6rem;
   }
 
   .heading .sub-menu {
-    font-size: 5rem;
+    font-size: 3rem;
   }
 }
 
