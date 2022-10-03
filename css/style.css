@@ -221,7 +221,7 @@ img {
   display: grid;
   align-items: center;
   grid-template-columns: repeat(auto-fit, minmax(17rem, auto));
-  gap: 1.5rem;
+  gap: 3.5rem;
   z-index: 1;
   background: url(../images/banner.jpg) no-repeat;
   background-size: cover;
